@@ -1,0 +1,49 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* BODY STYLE */
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  padding: 40px;
+  line-height: 1.7;
+}
+
+/* HEADINGS */
+h1 {
+  font-size: 2rem;
+  color: #7b3f3f;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+}
+h2 {
+  color: #7b3f3f;
+  margin-bottom: 8px;
+  font-size: 1.4rem;
+}
+
+/* SECTION STYLES */
+.section {
+  margin-top: 30px;
+}
+
+/* LISTS */
+ul {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+ul li {
+  margin-bottom: 6px;
+}
+
+/* PARAGRAPH */
+p {
+  margin-bottom: 6px;
+}

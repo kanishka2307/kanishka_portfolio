@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kanishka E - Resume</title>
+  <link rel="stylesheet" href="resume.css" />
+</head>
+<body>
+
+  <h1>Kanishka E</h1>
+  <p><strong>Email:</strong> kanishka@google.com</p>
+  <p><strong>Phone:</strong> +91 98765 43210</p>
+  <p><strong>Location:</strong> Tamil Nadu, India</p>
+
+  <div class="section">
+    <h2>Career Objective</h2>
+    <p>Dedicated and detail-oriented Civil Engineer with strong technical and project management skills. Passionate about delivering sustainable and structurally sound infrastructure.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li>B.E. Civil Engineering – Francis Xaviers Engineering College</li>
+      <li>12th Standard – Rose Mary Matric Hr Sec School </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li>AutoCAD, STAAD Pro, Revit</li>
+      <li>Estimation & Costing</li>
+      <li>MS Project, Excel</li>
+      <li>Site Supervision & Planning</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Residential Building Design:</strong> G+3 RC building with detailed structural analysis using STAAD Pro.</li>
+      <li><strong>Highway Estimation:</strong> DPR and BOQ for a 2-lane highway using IRC standards.</li>
+      <li><strong>Bridge Rehabilitation:</strong> Crack mapping, retrofitting and cost estimation for a 40 m bridge.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Certifications</h2>
+    <ul>
+      <li>AutoCAD Certification – CADD Centre</li>
+      <li>STAAD Pro Workshop – Tech Institute</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Personal Details</h2>
+    <ul>
+      <li>Date of Birth: 23 March 2007</li>
+      <li>Languages: English, Tamil, English</li>
+    </ul>
+  </div>
+
+</body>
+</html>
